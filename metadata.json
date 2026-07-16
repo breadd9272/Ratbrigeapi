@@ -1,0 +1,8 @@
+{
+  "name": "Remix: DeviceBridge Panel",
+  "description": "DeviceBridge Pro — transparent remote device fleet admin panel",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
